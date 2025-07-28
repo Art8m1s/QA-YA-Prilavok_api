@@ -32,5 +32,26 @@ _-Работа с корзиной:_
 # ✨Выполнение
 
 1. Составил <a href="https://docs.google.com/spreadsheets/d/1CQAbk9FgTTduBCgiPpIPmBg8pTynKrxjyoYuXqZuSO8/edit?gid=0#gid=0">тестовую документацию</a> для API
-2. Протестировал API через <a href="">Postman</a>
+   <details>
+  	       <summary>Фрагмент документации</summary>
+              
+	![Описание изображения](https://github.com/Art8m1s/QA-YA-Prilavok_api/blob/main/listchek.png)
+
+  	</details>
+2. Протестировал API через Postman
+   <details>
+  	       <summary>Фрагмент скринов из Postman</summary>
+              
+	![Описание изображения](https://github.com/Art8m1s/QA-YA-Prilavok_api/blob/main/24.png)
+  ![Описание изображения](https://github.com/Art8m1s/QA-YA-Prilavok_api/blob/main/28.png)
+  ![Описание изображения](https://github.com/Art8m1s/QA-YA-Prilavok_api/blob/main/8.png)
+
+  </details>
+   
 3. Завел найденные баги в <a href="https://docs.google.com/spreadsheets/d/1CQAbk9FgTTduBCgiPpIPmBg8pTynKrxjyoYuXqZuSO8/edit?gid=1673303584#gid=1673303584">документе</a>
+   <details>
+  	       <summary>Фрагмент баг репорта</summary>
+              
+	![Описание изображения](https://github.com/Art8m1s/QA-YA-Prilavok_api/blob/main/bugrep.png)
+
+  	</details>
