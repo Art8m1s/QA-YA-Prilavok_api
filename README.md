@@ -30,6 +30,7 @@ _-Работа с корзиной:_
 
 
 # ✨Выполнение
+<a href="https://docs.google.com/document/d/161Fx4IdkftuBroqNpaibnIktY8SrgQnElKLzegX_ssw/edit?usp=sharing">_Полный документ по проекту_</a>
 
 1. Составил <a href="https://docs.google.com/spreadsheets/d/1CQAbk9FgTTduBCgiPpIPmBg8pTynKrxjyoYuXqZuSO8/edit?gid=0#gid=0">тестовую документацию</a> для API
    <details>
